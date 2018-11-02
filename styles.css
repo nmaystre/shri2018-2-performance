@@ -646,5 +646,18 @@ html {
 	from {
 		transform: scale(0.2);
 	}
-	to-transform: scale(1);
+	to {
+		transform: scale(1);
+	}
+}
+
+/* from bootstrap */
+
+img {
+	width: auto\9;
+	height: auto;
+	max-width: 100%;
+	vertical-align: middle;
+	border: 0;
+	-ms-interpolation-mode: bicubic;
 }
