@@ -143,7 +143,7 @@ html {
 	padding-right: 31px;
 }
 .weather__item_cloud-drizzle {
-	background: url("assets/cloud-drizzle.png") 100% 70%/26px no-repeat;
+	background: url("assets/cloud-drizzle.svg") 100% 70%/26px no-repeat;
 }
 .stats {
 	opacity: 0;
@@ -519,6 +519,7 @@ html {
 	display: flex;
 	justify-content: space-between;
 	background: url("assets/sh.jpg") center center/cover no-repeat;
+	background: url("assets/sh.webp") center center/cover no-repeat;
 }
 .main__greeting {
 	margin-top: 6px;
